@@ -85,7 +85,7 @@
 
 .gradi{
     padding-right: 30px;
-    background: url("/images/watch.png"),linear-gradient(blue,red);
+    background: url('images/watch.png'),linear-gradient(blue,red);
     background-blend-mode: multiply;
     background-size: cover;
     width: 1040px;
