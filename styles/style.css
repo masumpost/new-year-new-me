@@ -1,0 +1,170 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.hedbnr{
+    display: flex;
+    background-color: rgb(250, 250, 250);
+}
+.page-banner{
+    height: 100vh;
+    padding-top: 30px;
+    padding-left: 30px;
+}
+.b-part2{
+    padding-top: 100px;
+    padding-right: 100px;
+    text-align: right;
+}
+.b-hed{
+    padding-bottom: 15px;
+}
+.b-arti{
+    padding-bottom: 10px;
+}
+.hed-but{
+    padding: 15px;
+    color: white;
+    background-color: orangered;
+    border-radius: 5px;
+    border: none;
+}
+
+/* Body part 1 */
+
+.body-1{
+    display: flex;
+    align-items: center;
+    padding-top: 100px;
+}
+.b1{
+    padding: 30px;
+}
+.b-img1{
+    width: 569px;
+    height: 723px;
+}
+.b-h2{
+    padding: 15px;
+}
+.b-1p{
+    padding: 10px;
+    text-align: center;
+}
+.first-ul{
+    padding: 15px;
+}
+
+.b-hed3{
+    text-align: center;
+    padding: 50px;
+}
+
+/*  plans */
+
+.plans{
+    display: flex;
+    justify-content: center;
+}
+.plan{
+    align-items: center;
+    padding: 20px;
+    text-align: center;
+}
+.plan-img{
+    padding: 10px;
+}
+.plan-hed{
+    padding: 10px;
+}
+.plan-pra{
+    padding-bottom: 30px;
+}
+
+/* Gradieat  */
+
+.gradi{
+    padding-right: 30px;
+    background: url("/images/watch.png"),linear-gradient(blue,red);
+    background-blend-mode: multiply;
+    background-size: cover;
+    width: 1040px;
+    height: 300px;
+    margin: 100px;
+}
+.gradi1{
+    padding: 200px 0 0 50px;
+    text-align: left;
+}
+
+.gradih{
+    color: aliceblue;
+    text-align: left;
+}
+
+.gradi-but{
+    padding: 5px;
+    margin-top: 5px;
+    background-color: aliceblue;
+    color: chocolate;
+    border: none;
+    border-radius: 5px;
+}
+
+/*  footer */
+
+.footer{
+    display: flex;
+    color: white;
+    background-color: black;
+}
+.fot1{
+    text-align: left;
+    padding: 60px 50px 0 90px;
+}
+.foth2{
+    padding-bottom: 10px;
+}
+.fot-pra{
+    padding-bottom: 10px;
+}
+.fot-pra1{
+    padding-bottom:10px ;
+}
+.fot-pra2{
+    padding-bottom: 10px;
+}
+
+.fot2{
+    padding: 60px 0 0 200px;
+    text-align: left;
+    justify-content: flex-end;
+}
+.input{
+    padding: 5px;
+    border-radius: 5px;
+    background-color: black;
+    border: 1px solid white;
+}
+.fot-buttom{
+    padding: 5px;
+    border-radius: 5px;
+    color: rgb(253, 51, 0);
+}
+
+/*  Extra Part */
+
+.span{
+    color: orangered;
+}
+.extra{
+    text-align: right;
+    padding: 20px;
+}
+.ex-btn{
+    padding: 5px;
+    color: white;
+    background-color: orangered;
+    border: none;
+    border-radius: 5px;
+}
